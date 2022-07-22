@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React,Node,Django**
 
-- 📫 How to reach me **8957469339**
+- 📫 How to reach me **ayushz19082202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
