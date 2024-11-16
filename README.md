@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Web D Projects<br>🌱 I’m currently learning Django, AWS, DSA<br>
+👯 I’m looking to collaborate on Web D Projects<br>🌱 I’m currently learning Spring Boot, AWS, DSA<br>
 
 
 ## 🌐 Socials:
